@@ -194,3 +194,19 @@ Received Import Request.
 Start importing Assets/example_image.png using Guid(4e338cc020b4c4bd7a580f7cd168a9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c271c0c821181ccb87dfdf681078808') in 0.086202 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 244.872379 seconds.
+  path: Assets/Editor/ReverseShell.cs
+  artifactKey: Guid(cff7180d49d3f439ab7520ad0bd20b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/ReverseShell.cs using Guid(cff7180d49d3f439ab7520ad0bd20b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a573f62595f1acb82f4e3e50193a475') in 0.000826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 191.018764 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(2920a41584fc14e079b887565177b389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(2920a41584fc14e079b887565177b389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b8918646b0a5c06ab118175ad495a5') in 0.000582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
