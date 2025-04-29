@@ -1,39 +1,5 @@
 {
   "dependencies": {
-    "com.unity.industry.toolkit": {
-      "version": "3.1.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.pixyz.unity-sdk": "3.0.2",
-        "com.unity.settings-manager": "2.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.pixyz.sdk-plus": {
-      "version": "4.0.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.pixyz.unity-sdk": {
-      "version": "3.0.2",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.pixyz.sdk-plus": "4.0.0",
-        "com.unity.modules.animation": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.settings-manager": {
-      "version": "2.0.1",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
